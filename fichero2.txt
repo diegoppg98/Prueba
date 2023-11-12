@@ -1,2 +1,3 @@
 Nuevo fichero
 Cambios añadidos en fichero 2
+Cambios añadidos por otra persona
